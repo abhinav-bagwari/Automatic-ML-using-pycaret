@@ -23,3 +23,6 @@ Attributes 5 to 14 refer to laboratory data:
 14) PROT
 
 The target attribute for classification is Category (2): blood donors vs. Hepatitis C patients (including its progress ('just' Hepatitis C, Fibrosis, Cirrhosis).
+
+![image](https://user-images.githubusercontent.com/71334027/149283030-b7c3ea55-0340-48ff-9e4b-028500fd2b0a.png)
+
