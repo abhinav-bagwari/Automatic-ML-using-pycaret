@@ -26,5 +26,6 @@ The target attribute for classification is Category (2): blood donors vs. Hepati
 
 ![image](https://user-images.githubusercontent.com/71334027/149283030-b7c3ea55-0340-48ff-9e4b-028500fd2b0a.png)
 
-![image](https://user-images.githubusercontent.com/71334027/149283274-abc5c57c-b9ba-484d-9326-b41688ac786d.png)
+![image](https://user-images.githubusercontent.com/71334027/149283442-318cd6d1-8600-4151-ae48-24cdb440a754.png)
+
 
